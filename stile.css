@@ -21,7 +21,7 @@ main {
 }
 
 .training-box {
-  background-color: #1a1a1a; /* Transparência de 47% */
+ background-color: rgba(0, 0, 0, 0.47); /* Preto com 47% de opacidade */
   border: 2px solid #ffffff; /* Contorno branco */
   border-radius: 10px;
   margin-bottom: 20px;
