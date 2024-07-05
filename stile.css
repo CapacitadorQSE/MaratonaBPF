@@ -2,7 +2,7 @@ body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background: linear-gradient(to bottom, #1CCA6E, #6F36C5); /* Degrade entre as cores desejadas */
+  background: linear-gradient(to bottom, #0085C7, #FFD700); /* Degradê entre azul e amarelo */
 }
 
 header {
@@ -21,7 +21,7 @@ main {
 }
 
 .training-box {
- background-color: rgba(0, 0, 0, 0.47); /* Preto com 47% de opacidade */
+  background-color: rgba(0, 0, 0, 0.47); /* Preto com 47% de opacidade */
   border: 2px solid #ffffff; /* Contorno branco */
   border-radius: 10px;
   margin-bottom: 20px;
@@ -35,7 +35,7 @@ main {
 .test-button {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #f5025d;
+  background-color: #FF4C4C; /* Vermelho */
   color: #ffffff;
   border: 2px solid #ffffff;
   border-radius: 10px;
@@ -45,5 +45,5 @@ main {
 
 .test-button:hover {
   background-color: #ffffff;
-  color: #f5025d;
+  color: #FF4C4C;
 }
